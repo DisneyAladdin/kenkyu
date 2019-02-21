@@ -1,0 +1,12 @@
+.sampleTable {
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+
+.tsukuba {
+    position: absolute;
+    left: 80px;
+    top: 50px;
+}
+    
