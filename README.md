@@ -9,7 +9,7 @@ Web，情報検索，検索エンジン，トピックモデル，word2vec，話
 ## 所属
 筑波大学 システム情報工学研究科 知能機能システム専攻
 
-### 大まかな流れ
+## 大まかな流れ
 ・クエリ入力<br>
 ・検索エンジン・サジェスト収集<br>
 ・検索結果上位20位ずつ，ウェブページを収集<br>
@@ -21,3 +21,14 @@ Web，情報検索，検索エンジン，トピックモデル，word2vec，話
 ・トピックモデルの結果に対し，SVM（Support Vector Machine）を適用，ノウハウサイトの自動同定<br>
 ・同定されたノウハウサイト候補群およびデモインタフェースを入力に，「ノウハウちゃんねる」作成<br>
 
+# Licence
+CopyRight (c) 2018 Shuto Kawabata
+
+Released under the MIT licence
+
+https://opensource.org/licenses/MIT
+
+# Author
+川畑修人
+
+Shuto Kawabata
