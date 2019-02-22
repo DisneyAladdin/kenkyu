@@ -9,12 +9,10 @@ Web，情報検索，検索エンジン，トピックモデル，word2vec，話
 
 # 発表等
 ・JSAI2018（人工知能学会）<br>
-・2018/06<br>
 ・https://confit.atlas.jp/guide/event/jsai2018/subject/1E3-04/classlist<br>
 
 
-・DEIM2019(日本データベース学会)<bt>
-・2019/03<br>
+・DEIM2019(日本データベース学会)<br>
 ・http://db-event.jpn.org/deim2019/post/program.html<br>
 
 
